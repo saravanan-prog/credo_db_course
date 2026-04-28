@@ -56,9 +56,9 @@
 
 Learn:
 
-Subqueries
-Constraints (NOT NULL, UNIQUE)
-Views (basic idea)
+- Subqueries
+- Constraints (NOT NULL, UNIQUE)
+- Views (basic idea)
 
 #### ⚫ Step 9. Advanced Topics
 
