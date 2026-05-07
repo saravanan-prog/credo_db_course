@@ -63,18 +63,4 @@ Views (basic idea)
 #### ⚫ Step 9. Advanced Topics
 
 - Indexes (performance 🚀)
-- Normalization (1NF, 2NF, 3NF)
 - Transactions (COMMIT, ROLLBACK)
-
-###  Step 10. Real-World Skills
-- Database design (important 💼)
-- Writing optimized queries
-- Backup & Restore
-- Handling large data
-
-### 🧑‍💻 Step 11: Practice (Very Important)
-
-👉 Build small project:
-
-- Student Management System
-- User Login Table
